@@ -1,0 +1,185 @@
+/*
+Minimal Instapaper Safari Extension
+http://richardkall.se/safari/minimal-instapaper
+Developed by Richard Käll
+http://richardkall.se
+me@richardkall.se
+*/
+
+* {
+	font-family: "Myriad Pro", "Helvetica Neue", Helvetica, Arial, sans-serif !important;
+}
+
+body {
+	background: #fff !important;
+	width: 800px !important;
+}
+
+a {
+	color: #666 !important;
+	text-decoration: none !important;
+}
+
+a:hover {
+	color: #333 !important;
+}
+
+h1, #header div:last-child, #right_column, a[href="/extras"], a[href="/user"], a[href="/browse"], #userpanel span, .host, .separator, #footer {
+	display: none !important;
+}
+
+
+#userpanel {
+	background: #fff !important;
+	width: 800px !important;		
+	font-size: 14px !important;
+	color: #ccc !important;
+	position: fixed !important;
+	top: 0px !important;
+	width: 800px !important;
+	height: 65px !important;
+	text-align: left !important;
+	margin-top: 0 !important;
+	padding-top: 20px !important;
+	z-index: 100 !important;
+}
+
+#categoryHeader {
+	margin-top: 40px !important;
+	position: fixed !important;
+	top: 45px !important;
+	background: #fff !important;
+	width: 800px !important;
+	height: 30px !important;
+	border-bottom: 1px #ccc solid;
+	z-index: 50 !important;
+}
+
+#categoryHeader span {
+	margin: 15px !important;
+	color: #fff !important;
+}
+
+a[href="/user/logout"] {
+	margin-left: 25px !important; 
+}
+
+.tableViewCell {
+	background: none !important;
+	border: none !important;
+
+}
+
+#content, #bookmark_list, #left_column {
+	width: 800px !important;
+}
+
+.starBox {
+	width: 30px !important;
+}
+
+.titleRow {
+	width: 625px !important;
+}
+
+.titleRow a {
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif !important;
+	font-size: 16px !important;
+	font-weight: bold !important;
+}
+
+#bookmark_list {
+	margin-top: 90px !important;
+}
+
+.actionLink {
+	border-right: 1px solid #e9e9e9 !important;
+	padding-right: 10px !important;
+	margin-right: 8px !important;
+}
+
+.secondaryControls a:last-child {
+	border-right: none !important;
+	padding-right: 0 !important;
+	margin-right: 0 !important;
+}
+
+.secondaryControls {
+	text-align: left !important;
+	margin-left: 30px !important;
+	text-transform: lowercase !important;
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif !important;
+	font-size: 11px !important;
+}
+
+.secondaryControls a {
+	color: #ccc !important;
+}
+
+.secondaryControls a:hover {
+	color: #999 !important;
+}
+
+.cornerControls a {
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif !important;
+	font-size: 11px !important;
+	border: none !important;
+	background: #ccc !important;
+	font-weight: bold !important;
+	padding: 7px !important;
+	color: #fff !important;
+}
+
+.cornerControls a:hover {
+	background: #999 !important;
+}
+
+.cornerControls a:first-child {
+	background: #e9e9e9 !important;
+}
+
+.cornerControls a:first-child:hover {
+	background: #ccc !important;
+}
+
+.summary {
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif !important;
+	font-size: 13px !important;
+	color: #999 !important;
+}
+
+.pagination span[style="color: #ccc;"] {
+	display: none !important;
+}
+
+.pagination a span {
+	text-decoration: none !important;
+	text-transform: lowercase !important;
+}
+
+.pagination a:last-child {
+	margin-left: 20px !important;
+	padding-left: 20px !important;
+}
+
+a[href="/user/logout"] {
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif !important;
+	font-size: 11px !important;
+	font-weight: bold;
+	background: #e9e9e9 !important;
+	border-radius: 5px !important;
+	padding: 5px !important;
+	color: #fff !important;
+}
+
+a[href="/user/logout"]:hover {
+	background: #ccc !important;
+}
+
+div[style="margin: 20px; font-size: 13px;"] {
+	display: none !important;
+}
+
+div[style="text-align: center; margin-top: 20px;"] {
+	color: #666 !important;
+}

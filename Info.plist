@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Author</key>
+	<string>Richard Käll</string>
+	<key>CFBundleDisplayName</key>
+	<string>Minimal Instapaper</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.richardkall.minimalinstapaper</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleShortVersionString</key>
+	<string>1.0</string>
+	<key>CFBundleVersion</key>
+	<string>1</string>
+	<key>Chrome</key>
+	<dict/>
+	<key>Content</key>
+	<dict>
+		<key>Scripts</key>
+		<dict/>
+		<key>Stylesheets</key>
+		<array>
+			<string>instapaper.css</string>
+		</array>
+		<key>Whitelist</key>
+		<array>
+			<string>http://www.instapaper.com/archive*</string>
+			<string>http://www.instapaper.com/u*</string>
+			<string>http://www.instapaper.com/starred*</string>
+		</array>
+	</dict>
+	<key>Description</key>
+	<string>A cleaner Instapaper reading list.</string>
+	<key>ExtensionInfoDictionaryVersion</key>
+	<string>1.0</string>
+	<key>Permissions</key>
+	<dict>
+		<key>Website Access</key>
+		<dict>
+			<key>Include Secure Pages</key>
+			<true/>
+			<key>Level</key>
+			<string>All</string>
+		</dict>
+	</dict>
+	<key>Update Manifest URL</key>
+	<string>http://dl.dropbox.com/u/5430344/minimal-instapaper.safariextension/latest.plist</string>
+	<key>Website</key>
+	<string>http://richardkall.se/safari/minimal-instapaper</string>
+</dict>
+</plist>

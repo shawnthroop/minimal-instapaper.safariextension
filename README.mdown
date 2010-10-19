@@ -1,0 +1,20 @@
+Minimal Instapaper Safari Extension
+=================
+A cleaner Instapaper reading list. Removes all the extras, ads and unnecessary stuff.
+[http://richardkall.se/safari/minimal-instapaper](http://richardkall.se/safari/minimal-instapaper)
+
+How to install
+-----------------------------------
+**Safari >5.0:**  
+* Download and install this file: [minimal-instapaper.safariextz](http://github.com/downloads/richardkall/minimal-instapaper.safariextension/minimal-instapaper.safariextz)
+
+**Safari <5.0:**  
+* Go to *Safari Preferences -> Advanced -> Show Develop menu* in menu bar  
+* In the menu bar go to *Develop -> Enable Extensions*  
+* Download and install this file: [minimal-instapaper.safariextz](http://github.com/downloads/richardkall/minimal-instapaper.safariextension/minimal-instapaper.safariextz)
+
+Developer
+-----------------------------------
+Richard Käll  
+[http://richardkall.se](http://richardkall.se)  
+[me@richardkall.se](mailto:me@richardkall.se)
