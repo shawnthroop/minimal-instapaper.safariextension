@@ -6,12 +6,12 @@ A cleaner Instapaper reading list. Removes all the extras, ads and unnecessary s
 How to install
 -----------------------------------
 **Safari >5.0:**  
-* Download and install this file: [minimal-instapaper.safariextz](http://github.com/downloads/richardkall/minimal-instapaper.safariextension/minimal-instapaper.safariextz)
+* Download and install this file: [minimal-instapaper.safariextz](http://richardkall.se/safari/minimal-instapaper/minimal-instapaper.safariextz)
 
 **Safari <5.0:**  
 * Go to *Safari Preferences -> Advanced -> Show Develop menu* in menu bar  
 * In the menu bar go to *Develop -> Enable Extensions*  
-* Download and install this file: [minimal-instapaper.safariextz](http://github.com/downloads/richardkall/minimal-instapaper.safariextension/minimal-instapaper.safariextz)
+* Download and install this file: [minimal-instapaper.safariextz](http://richardkall.se/safari/minimal-instapaper/minimal-instapaper.safariextz)
 
 Developer
 -----------------------------------

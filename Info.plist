@@ -46,7 +46,7 @@
 		</dict>
 	</dict>
 	<key>Update Manifest URL</key>
-	<string>http://dl.dropbox.com/u/5430344/minimal-instapaper.safariextension/latest.plist</string>
+	<string>http://richardkall.se/safari/minimal-instapaper/latest.plist</string>
 	<key>Website</key>
 	<string>http://richardkall.se/safari/minimal-instapaper</string>
 </dict>
