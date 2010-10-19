@@ -1,6 +1,6 @@
 Minimal Instapaper Safari Extension
 =================
-A cleaner Instapaper reading list. Removes all the extras, ads and unnecessary stuff.
+A cleaner Instapaper reading list. Removes all the extras, ads and unnecessary stuff.  
 [http://richardkall.se/safari/minimal-instapaper](http://richardkall.se/safari/minimal-instapaper)
 
 How to install
