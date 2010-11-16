@@ -37,3 +37,4 @@ a[href="/user/logout"]{font-family:"Helvetica Neue",Helvetica,Arial,sans-serif !
 a[href="/user/logout"]:hover{background:#ccc !important;}
 div[style="margin:20px;font-size:13px;"]{display:none !important;}
 div[style="text-align:center;margin-top:20px;"]{color:#666 !important;}
+#deckpromo{display: none;}
