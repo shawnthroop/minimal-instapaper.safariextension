@@ -29,6 +29,9 @@
 			<string>http://www.instapaper.com/archive*</string>
 			<string>http://www.instapaper.com/u*</string>
 			<string>http://www.instapaper.com/starred*</string>
+			<string>https://www.instapaper.com/archive*</string>
+			<string>https://www.instapaper.com/u*</string>
+			<string>https://www.instapaper.com/liked*</string>
 		</array>
 	</dict>
 	<key>Description</key>
